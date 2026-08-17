@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prateek Gaud
 =====================================================================================================================================
 
-Cybersecurity Student focused on Ethical Hacking, Penetration Testing & Security Researc
-----------------------------------------------------------------------------------------
+Cybersecurity Enthusiast focused on Ethical Hacking, Penetration Testing & Security Research
+--------------------------------------------------------------------------------------------
 
 🔐 I'm passionate about Ethical Hacking, Penetration Testing, Bug Hunting, Web Security, Network Security, OSINT, Digital Forensics, and Red Teaming.
 
